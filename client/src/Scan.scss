@@ -1,0 +1,57 @@
+.scanner {
+
+&__top {
+    display: flex;
+    justify-content: space-around;
+}
+
+&__
+&__title {
+font-family: Roboto;
+}
+
+&__file {
+}
+
+&__image {
+
+}
+
+&__input {
+    display: none;
+
+}
+
+&__button {
+    background-color: #FBBC05;
+    color: #FBBC05;
+    border: none;
+    height: 94px;
+    width: 94px;
+    border-radius: 100px;
+    margin-left: 1rem;
+   margin-bottom: 2rem;
+}
+
+
+&__box {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+}
+
+label {
+    height: 94px;
+    width: 47px;
+    font-size: 2rem;
+    font-weight: 700;
+    padding-top: 2.5rem;
+    padding-right: 5rem;
+
+}
+
+input {
+    display: none;
+}
+

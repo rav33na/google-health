@@ -1,0 +1,23 @@
+.success {
+    background-image: url(./assets/BackgroundImage.png);
+    height: 100vh;
+    padding-top: 30%;
+    &__box {
+        width: 376px;
+        height: 470px;
+        background-color: #fff;
+        margin: auto;
+    }
+    &__img {
+        padding-top: 3rem;
+    }
+
+    audio {
+        width:96px;
+        height: 69px;
+        background-color: green;
+        filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    }
+ 
+
+}
